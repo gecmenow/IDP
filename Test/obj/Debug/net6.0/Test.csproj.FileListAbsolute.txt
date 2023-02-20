@@ -1,0 +1,5 @@
+D:\IDP\WebApplication1\Test\obj\Debug\net6.0\Test.csproj.AssemblyReference.cache
+D:\IDP\WebApplication1\Test\obj\Debug\net6.0\Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\IDP\WebApplication1\Test\obj\Debug\net6.0\Test.AssemblyInfoInputs.cache
+D:\IDP\WebApplication1\Test\obj\Debug\net6.0\Test.AssemblyInfo.cs
+D:\IDP\WebApplication1\Test\obj\Debug\net6.0\Test.csproj.CoreCompileInputs.cache
