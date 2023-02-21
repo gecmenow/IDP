@@ -1,1 +1,2 @@
 some text
+added new text for cherry-picking
